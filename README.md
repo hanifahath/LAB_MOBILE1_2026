@@ -7,7 +7,7 @@ Repositori ini digunakan untuk mengumpulkan tugas Praktikum Pemrograman Mobile (
 | NIM | Nama |
 | :--- | :--- |
 | H071211070 | FIRMANSYAH |
-| H071241006 | NURUL MARISA CLARA WALDI |
+| H071241006 | A. IZZA SYATHRA |
 | H071241015 | NURUL MARISA CLARA WALDI |
 | H071241024 | ARIEL MUFADDHAL |
 | H071241033 | MUH. HANIF NURMAHDIN |
